@@ -17,6 +17,7 @@ def main():
     output = calculate_bmi(weight=57, height=1.73)
     print("Return value based on weight classification: ", output)
 
+
 if __name__ == "__main__":
     main()
 
